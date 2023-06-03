@@ -1,0 +1,1 @@
+const t="/tennaxia_app_ui/";class e{async getProductsSmall(){return(await(await fetch(t+"demo/data/products-small.json")).json()).data}async getProducts(){return(await(await fetch(t+"demo/data/products.json")).json()).data}async getProductsWithOrdersSmall(){return(await(await fetch(t+"demo/data/products-orders-small.json")).json()).data}}export{e as P};

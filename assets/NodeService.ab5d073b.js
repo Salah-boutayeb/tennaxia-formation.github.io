@@ -1,0 +1,1 @@
+const t="/tennaxia_app_ui/";class n{async getTreeTableNodes(){return(await(await fetch(t+"demo/data/treetablenodes.json")).json()).root}getTreeNodes(){return fetch(t+"demo/data/treenodes.json").then(e=>e.json()).then(e=>e.root)}}export{n as N};

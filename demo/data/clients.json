@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "client": "Balistreri LLC",
+            "ca": "n-a",
+            "createdAt": "3-7-2023",
+            "agent": "Pierre Wittke",
+            "lieu": "842 Macpherson Avenue"
+        },
+        {
+            "id": 2,
+            "client": "Durgan and Sons",
+            "ca": "$2.41B",
+            "createdAt": "12-19-2022",
+            "agent": "Phil Pawlowicz",
+            "lieu": "812 Forest Run Avenue"
+        },
+        {
+            "id": 3,
+            "client": "Pfannerstill-Schinner",
+            "ca": "$42.85M",
+            "createdAt": "3-28-2022",
+            "agent": "Codee Spencook",
+            "lieu": "24595 Declaration Avenue"
+        },
+        {
+            "id": 4,
+            "client": "Schuppe-Dibbert",
+            "ca": "$475.23M",
+            "createdAt": "5-22-2022",
+            "agent": "Bride Friedlos",
+            "lieu": "9 Coleman Parkway"
+        },
+        {
+            "id": 5,
+            "client": "Baumbach, Schaefer and Leffler",
+            "ca": "$336.38M",
+            "createdAt": "7-10-2022",
+            "agent": "Kordula Dunstone",
+            "lieu": "78 Gateway Court"
+        },
+        {
+            "id": 6,
+            "client": "Erdman-Ryan",
+            "ca": "$82.91M",
+            "createdAt": "7-2-2022",
+            "agent": "Myrtle Whiteson",
+            "lieu": "7351 4th Drive"
+        },
+        {
+            "id": 7,
+            "client": "Crooks-Quitzon",
+            "ca": "$6.43B",
+            "createdAt": "8-13-2022",
+            "agent": "Kingsly Byfield",
+            "lieu": "861 Lakewood Way"
+        },
+        {
+            "id": 8,
+            "client": "Rath and Sons",
+            "ca": "n-a",
+            "createdAt": "1-26-2023",
+            "agent": "Bellanca Scutter",
+            "lieu": "5225 Fisk Park"
+        },
+        {
+            "id": 9,
+            "client": "Hoppe-Stamm",
+            "ca": "n-a",
+            "createdAt": "7-17-2022",
+            "agent": "Kermit Chessun",
+            "lieu": "80259 Ohio Park"
+        },
+        {
+            "id": 10,
+            "client": "Raynor-Hessel",
+            "ca": "$559.9M",
+            "createdAt": "3-13-2023",
+            "agent": "Felizio Copeman",
+            "lieu": "3 Marcy Place"
+        },
+        {
+            "id": 11,
+            "client": "Bayer-Schulist",
+            "ca": "n-a",
+            "createdAt": "4-17-2022",
+            "agent": "Biddie Henriques",
+            "lieu": "4 Continental Avenue"
+        },
+        {
+            "id": 12,
+            "client": "Hyatt Inc",
+            "ca": "$364.09M",
+            "createdAt": "2-3-2023",
+            "agent": "Arabele Garroway",
+            "lieu": "6 Melody Point"
+        },
+        {
+            "id": 13,
+            "client": "Zulauf-Murazik",
+            "ca": "$138.19M",
+            "createdAt": "4-27-2022",
+            "agent": "Dionis Crisell",
+            "lieu": "036 Arkansas Drive"
+        },
+        {
+            "id": 14,
+            "client": "Kuhn Inc",
+            "ca": "n-a",
+            "createdAt": "4-17-2022",
+            "agent": "Nealy Garry",
+            "lieu": "01575 Elka Park"
+        },
+        {
+            "id": 15,
+            "client": "Jerde LLC",
+            "ca": "$417.14M",
+            "createdAt": "7-1-2022",
+            "agent": "Berti Mogg",
+            "lieu": "8 Shopko Hill"
+        },
+        {
+            "id": 16,
+            "client": "Quigley, Bednar and Mayert",
+            "ca": "$3.65B",
+            "createdAt": "7-22-2022",
+            "agent": "Perceval MacAlaster",
+            "lieu": "9 Michigan Trail"
+        },
+        {
+            "id": 17,
+            "client": "Okuneva and Sons",
+            "ca": "$38.25M",
+            "createdAt": "3-9-2023",
+            "agent": "Callean Bettison",
+            "lieu": "19387 Riverside Street"
+        },
+        {
+            "id": 18,
+            "client": "Blick-Stark",
+            "ca": "$829.14M",
+            "createdAt": "1-28-2023",
+            "agent": "Haywood Darkott",
+            "lieu": "26996 Blackbird Center"
+        },
+        {
+            "id": 19,
+            "client": "Willms, Wisoky and Treutel",
+            "ca": "$3.69B",
+            "createdAt": "10-18-2022",
+            "agent": "Jessica Loseby",
+            "lieu": "997 Merchant Court"
+        },
+        {
+            "id": 20,
+            "client": "Hand-Denesik",
+            "ca": "$1.6B",
+            "createdAt": "5-21-2022",
+            "agent": "Gwyn Rathmell",
+            "lieu": "4 Shopko Way"
+        },
+        {
+            "id": 21,
+            "client": "Marvin, Halvorson and Schinner",
+            "ca": "$875.28M",
+            "createdAt": "1-2-2023",
+            "agent": "Erin Crux",
+            "lieu": "04 Main Circle"
+        },
+        {
+            "id": 22,
+            "client": "Strosin, Buckridge and D'Amore",
+            "ca": "$357.95M",
+            "createdAt": "12-26-2022",
+            "agent": "Wolfy Hounsom",
+            "lieu": "5 Continental Way"
+        },
+        {
+            "id": 23,
+            "client": "Nienow, Torphy and Heidenreich",
+            "ca": "$4.84B",
+            "createdAt": "7-10-2022",
+            "agent": "Sargent Prandin",
+            "lieu": "492 Hermina Terrace"
+        },
+        {
+            "id": 24,
+            "client": "Cruickshank, Hickle and Homenick",
+            "ca": "n-a",
+            "createdAt": "12-10-2022",
+            "agent": "Cory Garred",
+            "lieu": "539 Kedzie Parkway"
+        },
+        {
+            "id": 25,
+            "client": "Kirlin and Sons",
+            "ca": "$423.7M",
+            "createdAt": "11-7-2022",
+            "agent": "Nadia Roelofsen",
+            "lieu": "38630 Roxbury Way"
+        },
+        {
+            "id": 26,
+            "client": "Goyette-Turcotte",
+            "ca": "$443.65M",
+            "createdAt": "9-5-2022",
+            "agent": "Halimeda Kippling",
+            "lieu": "126 Dovetail Parkway"
+        },
+        {
+            "id": 27,
+            "client": "Spencer, Nitzsche and Turner",
+            "ca": "$763.43M",
+            "createdAt": "4-8-2022",
+            "agent": "Maurizia Yurkevich",
+            "lieu": "1 Clarendon Alley"
+        },
+        {
+            "id": 28,
+            "client": "Kulas LLC",
+            "ca": "$2.83B",
+            "createdAt": "9-17-2022",
+            "agent": "Toby Tyght",
+            "lieu": "5 Jackson Trail"
+        },
+        {
+            "id": 29,
+            "client": "Willms-Gaylord",
+            "ca": "$1.28B",
+            "createdAt": "6-8-2022",
+            "agent": "Dall Doghartie",
+            "lieu": "66 Nancy Park"
+        },
+        {
+            "id": 30,
+            "client": "Altenwerth-Kuphal",
+            "ca": "$174.98M",
+            "createdAt": "4-5-2022",
+            "agent": "Isaak Boud",
+            "lieu": "5 Bunker Hill Way"
+        },
+        {
+            "id": 31,
+            "client": "Kerluke, Gutmann and Kuphal",
+            "ca": "$2.96B",
+            "createdAt": "2-1-2023",
+            "agent": "Cornelia Killbey",
+            "lieu": "32516 Tennessee Lane"
+        },
+        {
+            "id": 32,
+            "client": "Stanton and Sons",
+            "ca": "$6.43B",
+            "createdAt": "12-18-2022",
+            "agent": "Valida Youthead",
+            "lieu": "434 Sunnyside Lane"
+        },
+        {
+            "id": 33,
+            "client": "Senger Inc",
+            "ca": "$89.13M",
+            "createdAt": "12-13-2022",
+            "agent": "Cayla Tyce",
+            "lieu": "52589 Schlimgen Crossing"
+        },
+        {
+            "id": 34,
+            "client": "Strosin, O'Conner and Mayer",
+            "ca": "n-a",
+            "createdAt": "5-6-2022",
+            "agent": "Eldredge Hubback",
+            "lieu": "29 Eastwood Place"
+        },
+        {
+            "id": 35,
+            "client": "Cronin Group",
+            "ca": "$1.1B",
+            "createdAt": "12-12-2022",
+            "agent": "Amalea Tancock",
+            "lieu": "8596 Jackson Junction"
+        },
+        {
+            "id": 36,
+            "client": "Abshire-Mueller",
+            "ca": "$195.98M",
+            "createdAt": "4-15-2022",
+            "agent": "Anett Petcher",
+            "lieu": "8 Dryden Road"
+        },
+        {
+            "id": 37,
+            "client": "Bernhard, Hahn and Wilderman",
+            "ca": "$1.36B",
+            "createdAt": "7-24-2022",
+            "agent": "Jervis Gillham",
+            "lieu": "41 Merchant Street"
+        },
+        {
+            "id": 38,
+            "client": "Stokes-Von",
+            "ca": "$810.73M",
+            "createdAt": "5-28-2022",
+            "agent": "Amery Guenther",
+            "lieu": "2 Nelson Junction"
+        },
+        {
+            "id": 39,
+            "client": "Hilpert-McClure",
+            "ca": "n-a",
+            "createdAt": "10-15-2022",
+            "agent": "Carmita Devitt",
+            "lieu": "0 Fairfield Park"
+        },
+        {
+            "id": 40,
+            "client": "Pouros and Sons",
+            "ca": "$794.98M",
+            "createdAt": "10-26-2022",
+            "agent": "Ermentrude Tweedell",
+            "lieu": "88 Melby Park"
+        },
+        {
+            "id": 41,
+            "client": "Doyle-Hamill",
+            "ca": "$1.63B",
+            "createdAt": "1-2-2023",
+            "agent": "Beilul Coulthard",
+            "lieu": "25 Saint Paul Place"
+        },
+        {
+            "id": 42,
+            "client": "Brown, Buckridge and Jacobs",
+            "ca": "n-a",
+            "createdAt": "9-30-2022",
+            "agent": "Quintin Chattelaine",
+            "lieu": "0823 Mallard Terrace"
+        },
+        {
+            "id": 43,
+            "client": "Dare, Jakubowski and Hodkiewicz",
+            "ca": "$143.33M",
+            "createdAt": "12-29-2022",
+            "agent": "Myrtia Fourmy",
+            "lieu": "66237 Esch Plaza"
+        },
+        {
+            "id": 44,
+            "client": "Yost-Quitzon",
+            "ca": "$5.5B",
+            "createdAt": "3-8-2023",
+            "agent": "Catha Corck",
+            "lieu": "35922 Garrison Parkway"
+        },
+        {
+            "id": 45,
+            "client": "Grant, Walsh and Ziemann",
+            "ca": "$69M",
+            "createdAt": "11-20-2022",
+            "agent": "Siward Escreet",
+            "lieu": "8056 Crownhardt Junction"
+        },
+        {
+            "id": 46,
+            "client": "Cummerata-Predovic",
+            "ca": "$34.52B",
+            "createdAt": "3-14-2023",
+            "agent": "Riane Leger",
+            "lieu": "1420 Lakeland Terrace"
+        },
+        {
+            "id": 47,
+            "client": "Homenick, Schuster and Bins",
+            "ca": "$15.85B",
+            "createdAt": "3-17-2023",
+            "agent": "Jessie Roo",
+            "lieu": "505 Lunder Center"
+        },
+        {
+            "id": 48,
+            "client": "Brakus-Abernathy",
+            "ca": "$540.53M",
+            "createdAt": "11-10-2022",
+            "agent": "Therese Amsden",
+            "lieu": "7 Clove Park"
+        },
+        {
+            "id": 49,
+            "client": "Hane and Sons",
+            "ca": "$847.91M",
+            "createdAt": "12-31-2022",
+            "agent": "Myrwyn Dallywater",
+            "lieu": "10 Arizona Park"
+        },
+        {
+            "id": 50,
+            "client": "Kilback-Lakin",
+            "ca": "$78.61M",
+            "createdAt": "1-21-2023",
+            "agent": "Norris Castilla",
+            "lieu": "715 Northwestern Crossing"
+        },
+        {
+            "id": 51,
+            "client": "Fisher, Shields and Friesen",
+            "ca": "$8.18B",
+            "createdAt": "11-10-2022",
+            "agent": "Elsa Heasman",
+            "lieu": "97682 Dwight Drive"
+        },
+        {
+            "id": 52,
+            "client": "Gleichner, Mueller and Kohler",
+            "ca": "$10.91M",
+            "createdAt": "4-26-2022",
+            "agent": "Verina MacAdam",
+            "lieu": "6 Brickson Park Hill"
+        },
+        {
+            "id": 53,
+            "client": "Carter-Dickinson",
+            "ca": "$5.44B",
+            "createdAt": "6-16-2022",
+            "agent": "Hattie Standfield",
+            "lieu": "8 Hollow Ridge Court"
+        },
+        {
+            "id": 54,
+            "client": "Lueilwitz Inc",
+            "ca": "$20.66M",
+            "createdAt": "9-2-2022",
+            "agent": "Charlean Broadhead",
+            "lieu": "4 Evergreen Way"
+        },
+        {
+            "id": 55,
+            "client": "Wehner and Sons",
+            "ca": "$31.1B",
+            "createdAt": "5-12-2022",
+            "agent": "Ingeborg Hannan",
+            "lieu": "2819 3rd Plaza"
+        },
+        {
+            "id": 56,
+            "client": "Reynolds-Runolfsson",
+            "ca": "$91.14M",
+            "createdAt": "2-6-2023",
+            "agent": "Virginie Ebhardt",
+            "lieu": "16 Carberry Crossing"
+        },
+        {
+            "id": 57,
+            "client": "Johns, Wehner and Aufderhar",
+            "ca": "$50.77B",
+            "createdAt": "3-26-2022",
+            "agent": "Farrand Roullier",
+            "lieu": "192 Menomonie Point"
+        },
+        {
+            "id": 58,
+            "client": "Schiller-Ruecker",
+            "ca": "$2.28B",
+            "createdAt": "6-28-2022",
+            "agent": "Jeremiah Rosenthal",
+            "lieu": "45 Pankratz Way"
+        },
+        {
+            "id": 59,
+            "client": "Muller-Denesik",
+            "ca": "n-a",
+            "createdAt": "9-25-2022",
+            "agent": "Putnem Mapam",
+            "lieu": "78 Mitchell Park"
+        },
+        {
+            "id": 60,
+            "client": "Doyle-Cremin",
+            "ca": "$159.61M",
+            "createdAt": "3-22-2022",
+            "agent": "Lemmie Rose",
+            "lieu": "32 Shelley Trail"
+        },
+        {
+            "id": 61,
+            "client": "Bernhard-Abshire",
+            "ca": "n-a",
+            "createdAt": "10-9-2022",
+            "agent": "Saundra Boucher",
+            "lieu": "4 Cottonwood Circle"
+        },
+        {
+            "id": 62,
+            "client": "Walter-Terry",
+            "ca": "$2.39B",
+            "createdAt": "1-5-2023",
+            "agent": "Pete Milnes",
+            "lieu": "40 Summit Crossing"
+        },
+        {
+            "id": 63,
+            "client": "Vandervort and Sons",
+            "ca": "$136.26M",
+            "createdAt": "1-27-2023",
+            "agent": "Mureil Knagges",
+            "lieu": "076 Florence Way"
+        },
+        {
+            "id": 64,
+            "client": "Koepp, Mosciski and Corwin",
+            "ca": "n-a",
+            "createdAt": "9-26-2022",
+            "agent": "Carolus Bladder",
+            "lieu": "0909 Saint Paul Drive"
+        },
+        {
+            "id": 65,
+            "client": "Hayes Group",
+            "ca": "$10.41B",
+            "createdAt": "6-6-2022",
+            "agent": "Dotti Dorin",
+            "lieu": "744 Clemons Road"
+        },
+        {
+            "id": 66,
+            "client": "Kshlerin Inc",
+            "ca": "$589.8M",
+            "createdAt": "7-15-2022",
+            "agent": "Constancy Loughlan",
+            "lieu": "633 Stephen Court"
+        },
+        {
+            "id": 67,
+            "client": "Hoppe-Schumm",
+            "ca": "$126.32M",
+            "createdAt": "11-6-2022",
+            "agent": "Lydon Orrell",
+            "lieu": "0 Browning Trail"
+        },
+        {
+            "id": 68,
+            "client": "Lesch-Schowalter",
+            "ca": "$1.62B",
+            "createdAt": "7-23-2022",
+            "agent": "Arnoldo Olczyk",
+            "lieu": "48183 Dennis Park"
+        },
+        {
+            "id": 69,
+            "client": "Zieme-Sawayn",
+            "ca": "$893.84M",
+            "createdAt": "3-6-2023",
+            "agent": "Stephenie Garrad",
+            "lieu": "94100 Roxbury Parkway"
+        },
+        {
+            "id": 70,
+            "client": "Hayes Inc",
+            "ca": "$3.04B",
+            "createdAt": "8-26-2022",
+            "agent": "Jonathan Deme",
+            "lieu": "5 Mallard Point"
+        },
+        {
+            "id": 71,
+            "client": "Rodriguez-Vandervort",
+            "ca": "n-a",
+            "createdAt": "6-11-2022",
+            "agent": "Jaymee Rama",
+            "lieu": "18 American Ash Drive"
+        },
+        {
+            "id": 72,
+            "client": "Pouros and Sons",
+            "ca": "$8.55B",
+            "createdAt": "3-13-2023",
+            "agent": "Tyson Spinelli",
+            "lieu": "115 Coolidge Park"
+        },
+        {
+            "id": 73,
+            "client": "Rolfson, Farrell and Thiel",
+            "ca": "$10.5B",
+            "createdAt": "2-15-2023",
+            "agent": "Levon Buntin",
+            "lieu": "37 Trailsway Drive"
+        },
+        {
+            "id": 74,
+            "client": "Turcotte-Howell",
+            "ca": "n-a",
+            "createdAt": "2-11-2023",
+            "agent": "Marve Durtnall",
+            "lieu": "22 Dunning Avenue"
+        },
+        {
+            "id": 75,
+            "client": "Williamson Inc",
+            "ca": "$142.84M",
+            "createdAt": "7-1-2022",
+            "agent": "Wernher Richichi",
+            "lieu": "116 Trailsway Road"
+        },
+        {
+            "id": 76,
+            "client": "Kuvalis, McGlynn and Johnston",
+            "ca": "$32.03M",
+            "createdAt": "7-3-2022",
+            "agent": "Michelina Whittek",
+            "lieu": "6675 Atwood Street"
+        },
+        {
+            "id": 77,
+            "client": "Wiegand LLC",
+            "ca": "$8.28B",
+            "createdAt": "8-11-2022",
+            "agent": "Meghann Lear",
+            "lieu": "31714 Fuller Terrace"
+        },
+        {
+            "id": 78,
+            "client": "Collier-Haag",
+            "ca": "$547.07M",
+            "createdAt": "8-4-2022",
+            "agent": "Helyn Saltsberg",
+            "lieu": "53 Aberg Circle"
+        },
+        {
+            "id": 79,
+            "client": "Emard-Kuvalis",
+            "ca": "n-a",
+            "createdAt": "7-5-2022",
+            "agent": "Keslie Bernet",
+            "lieu": "930 Bonner Crossing"
+        },
+        {
+            "id": 80,
+            "client": "Leannon, Little and Waters",
+            "ca": "$2.38B",
+            "createdAt": "8-7-2022",
+            "agent": "Anselm Botwood",
+            "lieu": "0 Longview Center"
+        },
+        {
+            "id": 81,
+            "client": "Towne and Sons",
+            "ca": "$10.13B",
+            "createdAt": "10-20-2022",
+            "agent": "Byram Cristoforetti",
+            "lieu": "6342 South Point"
+        },
+        {
+            "id": 82,
+            "client": "Adams and Sons",
+            "ca": "$4.32B",
+            "createdAt": "7-2-2022",
+            "agent": "Wheeler Vooght",
+            "lieu": "20370 Stang Junction"
+        },
+        {
+            "id": 83,
+            "client": "Dicki Inc",
+            "ca": "$257.87M",
+            "createdAt": "2-3-2023",
+            "agent": "Alexina Pol",
+            "lieu": "91969 Fulton Alley"
+        },
+        {
+            "id": 84,
+            "client": "Ortiz-Bahringer",
+            "ca": "n-a",
+            "createdAt": "9-6-2022",
+            "agent": "Barnebas Broodes",
+            "lieu": "2 Forster Center"
+        },
+        {
+            "id": 85,
+            "client": "Greenfelder Group",
+            "ca": "$715.78M",
+            "createdAt": "11-19-2022",
+            "agent": "Minna Proschke",
+            "lieu": "6637 Harper Junction"
+        },
+        {
+            "id": 86,
+            "client": "Windler Inc",
+            "ca": "$11.35M",
+            "createdAt": "8-9-2022",
+            "agent": "Carlin Peto",
+            "lieu": "2 Canary Lane"
+        },
+        {
+            "id": 87,
+            "client": "Walker LLC",
+            "ca": "$5.5B",
+            "createdAt": "7-31-2022",
+            "agent": "Giralda Adnams",
+            "lieu": "62 Rutledge Road"
+        },
+        {
+            "id": 88,
+            "client": "Gaylord-Nicolas",
+            "ca": "$1.61B",
+            "createdAt": "7-19-2022",
+            "agent": "Garrik Dibdin",
+            "lieu": "677 Moland Drive"
+        },
+        {
+            "id": 89,
+            "client": "Harvey-Beatty",
+            "ca": "$9.06B",
+            "createdAt": "11-9-2022",
+            "agent": "Ketty Pittson",
+            "lieu": "02 Thackeray Trail"
+        },
+        {
+            "id": 90,
+            "client": "Moen-Ward",
+            "ca": "$341.72M",
+            "createdAt": "9-16-2022",
+            "agent": "Rosette Horburgh",
+            "lieu": "9 Utah Pass"
+        },
+        {
+            "id": 91,
+            "client": "Kuphal, Huel and Nitzsche",
+            "ca": "$10.5B",
+            "createdAt": "6-17-2022",
+            "agent": "Silvana Fitzjohn",
+            "lieu": "5607 Aberg Point"
+        },
+        {
+            "id": 92,
+            "client": "Schimmel LLC",
+            "ca": "$78.86M",
+            "createdAt": "5-27-2022",
+            "agent": "Rriocard Bomfield",
+            "lieu": "2 Farmco Circle"
+        },
+        {
+            "id": 93,
+            "client": "Lesch, Pacocha and Kirlin",
+            "ca": "$4.47B",
+            "createdAt": "6-9-2022",
+            "agent": "Kareem Davys",
+            "lieu": "6330 Carioca Avenue"
+        },
+        {
+            "id": 94,
+            "client": "Bashirian Group",
+            "ca": "$34.81B",
+            "createdAt": "10-23-2022",
+            "agent": "Melissa Beslier",
+            "lieu": "30 Mcguire Drive"
+        },
+        {
+            "id": 95,
+            "client": "Daniel, Gottlieb and Schimmel",
+            "ca": "$1.21B",
+            "createdAt": "8-3-2022",
+            "agent": "Linoel Kyte",
+            "lieu": "3 Waywood Plaza"
+        },
+        {
+            "id": 96,
+            "client": "Hermiston, Bartoletti and Hermann",
+            "ca": "$357.95M",
+            "createdAt": "7-26-2022",
+            "agent": "Bowie Hellwig",
+            "lieu": "66252 Vernon Junction"
+        },
+        {
+            "id": 97,
+            "client": "MacGyver and Sons",
+            "ca": "$28.99M",
+            "createdAt": "7-13-2022",
+            "agent": "Carry Goggan",
+            "lieu": "05 Sycamore Plaza"
+        },
+        {
+            "id": 98,
+            "client": "Heidenreich-Stanton",
+            "ca": "$4.09B",
+            "createdAt": "12-13-2022",
+            "agent": "Hanan Renault",
+            "lieu": "87 Merry Pass"
+        },
+        {
+            "id": 99,
+            "client": "Heaney, Nitzsche and Greenholt",
+            "ca": "$605.33M",
+            "createdAt": "1-18-2023",
+            "agent": "Leslie Doumenc",
+            "lieu": "1468 Morningstar Street"
+        },
+        {
+            "id": 100,
+            "client": "Schoen, King and Heidenreich",
+            "ca": "$520.48M",
+            "createdAt": "8-12-2022",
+            "agent": "Willis Brandt",
+            "lieu": "8 Monterey Center"
+        }
+    ]
+}

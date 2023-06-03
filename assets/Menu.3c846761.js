@@ -1,0 +1,1 @@
+import{D as c,r as e,B as l,a as t,o as u,c as _,b as m,d as s,m as p,F as d}from"./index.c68dd7c5.js";const f={class:"card"},h={__name:"Menu",setup(i){const o=c();e(null),e(null);const a=l(()=>o.state.processStat);return(v,B)=>{const n=t("Steps"),r=t("router-view");return u(),_(d,null,[m("div",f,[s(n,{model:p(a),readonly:!1},null,8,["model"])]),s(r)],64)}}};export{h as default};
